@@ -1,0 +1,1 @@
+var myData={designer:{name:'郭涛',phone:'17520482322',tag:["#吼"],bg:'#ea9b4d'},gallery:[{src:"myworks/8.jpg",w:1920,h:600},{src:"myworks/9.jpg",w:1920,h:600},{src:"myworks/4.jpg",w:1920,h:600},{src:"myworks/7.jpg",w:1920,h:600},]}
